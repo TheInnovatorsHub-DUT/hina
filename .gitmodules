@@ -25,3 +25,12 @@
 [submodule "res/KivyMD"]
 	path = res/KivyMD
 	url = https://github.com/kivymd/KivyMD.git
+[submodule "res/kivy-garden/tickmarker"]
+	path = res/kivy-garden/tickmarker
+	url = https://github.com/kivy-garden/tickmarker.git
+[submodule "res/kivy-garden/xcamera"]
+	path = res/kivy-garden/xcamera
+	url = https://github.com/kivy-garden/xcamera.git
+[submodule "res/commaai/body"]
+	path = res/commaai/body
+	url = https://github.com/commaai/body.git
